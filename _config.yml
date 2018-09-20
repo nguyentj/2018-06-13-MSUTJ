@@ -74,4 +74,4 @@ exclude:
 # Turn off built-in syntax highlighting.
 highlighter: false
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-hacker
